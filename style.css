@@ -3,7 +3,7 @@
   }
   
   .container {
-    background:#d3efdf;
+    background:#dfd3ef;
     padding:25px;
     max-width:760px;
     margin:25px auto;
@@ -17,6 +17,7 @@
     margin:0;
     text-align:center;
     text-transform:uppercase;
+      color: white;
    
   }
   
